@@ -1,8 +1,8 @@
 {
-  "version": "2.1.0",
-  "url": "https://raw.githubusercontent.com/LOSFLAMAS/LOS-FLAMAS-RECOVERY-MODS/main/Flamas_Mod_Recovery/FlamasModRecoverySetup.exe?v=2.1.0",
-  "sha256": "098f52e90a1a77f35f8afa2527d56fbedba6dd5d7a12bbba7cbfa61ccbfe3d81",
-  "notes": "Primera version publicada: instalador, explorador de carpetas de Windows encima de la app y actualizacion automatica.",
+  "version": "2.2.0",
+  "url": "https://raw.githubusercontent.com/LOSFLAMAS/LOS-FLAMAS-RECOVERY-MODS/main/Flamas_Mod_Recovery/FlamasModRecoverySetup.exe?v=2.2.0",
+  "sha256": "58dadf984ff7ea7a221a0531bea84a91ebaf609649031031b6c5cb2faddcf9dc",
+  "notes": "Ahora pide iniciar sesion con tu cuenta de flamasengine.com y una llave de acceso. Las llaves se compran en la pagina. El programa viene protegido.",
   "page": "https://github.com/LOSFLAMAS/LOS-FLAMAS-RECOVERY-MODS",
-  "date": "2026-11-21"
+  "date": "2026-11-22"
 }
